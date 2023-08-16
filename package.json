@@ -25,6 +25,7 @@
     "typescript": "5.1.6"
   },
   "devDependencies": {
+    "@cloudflare/next-on-pages": "1.5.1",
     "local-ssl-proxy": "2.0.5"
   }
 }
